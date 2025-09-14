@@ -1,0 +1,21 @@
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Python-specific files
+__pycache__/
+*.pyc
+venv/
+
+# Dependencies
+node_modules/
+build/
+dist/
+
+# Log files
+*.log
+
+# Sensitive information
+.env
+config.json
