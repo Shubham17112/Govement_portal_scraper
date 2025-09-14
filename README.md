@@ -1,3 +1,15 @@
+## Screen Shots
+
+
+<img width="1532" height="573" alt="image" src="https://github.com/user-attachments/assets/66163ffb-030a-428d-8642-f41ebb3c097b" />
+<img width="1596" height="780" alt="image" src="https://github.com/user-attachments/assets/ab611129-0782-4d57-ac61-e8e34d275c0e" />
+<img width="1386" height="791" alt="image" src="https://github.com/user-attachments/assets/eb0c64ed-eb4e-4179-9761-d3e14dd1ebbb" />
+<img width="1002" height="350" alt="image" src="https://github.com/user-attachments/assets/f17cef6e-195c-41e6-b3c7-c2bc19e4d0a6" />
+<img width="214" height="359" alt="image" src="https://github.com/user-attachments/assets/7cf9a9d1-2beb-4104-99e6-46c392d089f5" />
+<img width="1208" height="737" alt="image" src="https://github.com/user-attachments/assets/ca870b5c-cf75-4418-a7fb-04b40dd0df5f" />
+<img width="1394" height="864" alt="image" src="https://github.com/user-attachments/assets/402f7ae0-e28f-46f5-8fe9-7c247a477d82" />
+
+
 # HCRaj Judgments Scraper
 
 The **HCRaj Judgments Scraper** is a Python script that automates the process of scraping and downloading judgment PDFs from the Rajasthan High Court website (`hcraj.nic.in`). Using **Selenium**, it navigates the website, fills out search forms, handles manual captcha entry, and organizes downloaded PDFs and metadata into a CSV file.
