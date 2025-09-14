@@ -23,7 +23,7 @@ This Python script automates the process of scraping and downloading judgments f
 
 Before you can run this script, ensure you have the following installed:
 
-  * **Python 3.x**: You can download it from the [official Python website](https://www.python.org/downloads/).
+  * **Python 3.x**: You can download it from the [official Python website](https://www.python.org/downloads/release/python-3100/).
   * **pip**: Python's package installer (usually comes with Python).
 
 -----
